@@ -1,0 +1,11 @@
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\bin\Debug\netcoreapp2.0\CallToDoApi.deps.json
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\bin\Debug\netcoreapp2.0\CallToDoApi.runtimeconfig.json
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\bin\Debug\netcoreapp2.0\CallToDoApi.runtimeconfig.dev.json
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\bin\Debug\netcoreapp2.0\CallToDoApi.dll
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.csprojResolveAssemblyReference.cache
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.AssemblyInfoInputs.cache
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.AssemblyInfo.cs
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\bin\Debug\netcoreapp2.0\CallToDoApi.pdb
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.dll
+C:\Users\ehala\Source\Repos\CallToDoApi\CallToDoApi\obj\Debug\netcoreapp2.0\CallToDoApi.pdb
